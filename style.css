@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(146, 96, 67);
+}
+
+.container{
+    display:block;
+    width: 50%;
+    height: 50vh;
+    margin:0 auto;
+}
+
+#counter-display{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(97, 218, 227)
+}
+
+button{
+    margin: 0 auto;
+    margin-top: 5px;
+    display: block;
+    font-size: 15px;
+    height: 40px;
+    background-color: rgb(116, 203, 116);
+    border:2px solid black;
+    
+
+}
+
+button:hover{
+    background-color: rgb(74, 209, 74);
+    cursor: pointer;
+}
+
+.counter{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+}
